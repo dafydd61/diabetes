@@ -1,5 +1,13 @@
 # Rides
 
+## 2015-11-30 - pre-lunch ride at 12:30
+
+- 50% basal for 1h, 1.5h before ride. No further adjustment
+- ~9 at start, 6.5 at end, up to 7.5 shortly after. Fingerstick read 8.8 (calibrated)
+- -1u bolus for lunch, full correction
+- 20g snack at 4 for ride home, no matter what
+- Went very high after lunch, didn't come down until well after correction bolus - riding did it. **Swapped out site.**
+
 ## 2015-11-21 - Early morning long
 
 - Basal

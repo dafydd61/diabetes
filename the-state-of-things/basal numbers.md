@@ -14,12 +14,12 @@
 09:00     0.500
 12:00     0.475
 
-## Weekend (extra high regular - sick/stress - +~20%)
-00:00     0.575
-03:00     0.675
-06:00     0.675
-09:00     0.6
-12:00     0.575
+## Weekend (trying out higher morning numbers)
+00:00     0.475
+03:00     0.650
+06:00     0.550
+09:00     0.500
+12:00     0.475
 
 ## Exercise (Morning ride)
 00:00     0.500

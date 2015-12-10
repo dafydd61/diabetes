@@ -4,8 +4,8 @@
 
 This is a short ride, so:
 
-1. Not a lot of reduction after.
-2. -1u for lunch bolus
+1. -50% basal for 1h (the duration of the ride), 1.5h before
+2. No bolus adjustments after
 3. No basal reduction after - -20% allowed BG to rise too much.
 
 - -50% basal, 1.5h before, for 1 hour only

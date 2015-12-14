@@ -1,5 +1,13 @@
 # Rides
 
+## 2015-12-11 - pre-lunch ride at 12:30
+
+- 50% basal for 1h, 1.5h before ride. No further adjustment
+- 20g snack at 11:45 (45 min before, BG 7.1)
+- BG 9.3 before ride, 6.6 after
+- No adjustments for lunch, full correction
+- 20g snack at 5 for ride home, no matter what
+
 ## 2015-12-10 - pre-lunch ride at 12:30
 
 - 50% basal for 1h, 1.5h before ride. No further adjustment

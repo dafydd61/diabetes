@@ -13,3 +13,5 @@ This is a short ride, so:
 - watch out for a hypo when riding home (around 5). Eat a snack at 4:00 no matter what BG is doing.
 
 **Looks like this works, folks!**
+
+**Try -20% basal for 4h immediately after 1h of 50% - try and outwit the late afternoon hypo**

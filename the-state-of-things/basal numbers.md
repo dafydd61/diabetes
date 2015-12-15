@@ -14,13 +14,12 @@
 09:00     0.500
 12:00     0.475
 
-## Weekend (trying out higher morning numbers)
+## Weekend (trying out higher morning numbers) *Current*
 00:00     0.475
 03:00     0.650
-06:00     0.600
+06:00     0.625
 09:00     0.500
-12:00     0.425
-17:00     0.475
+12:00     0.475
 
 ## Exercise (Morning ride)
 00:00     0.475

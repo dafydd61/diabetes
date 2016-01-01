@@ -1,5 +1,15 @@
 # Rides
 
+## 2015-12-15 - pre-lunch ride at 12:30
+
+- 50% basal for 1h, 1.5h before ride. No further adjustment - I'm running high today
+- 10g snack at 11:45 (45 min before, BG 9.4)
+- BG 9.4 before ride, 7.7 after
+- No adjustments for lunch, full correction
+- Added an extra 20g after lunch - still very hungry. This may throw some things off.
+- 20g snack at 4:30 for ride home, no matter what
+- BG 8.3 at 5:30, leaving work to ride home
+
 ## 2015-12-11 - pre-lunch ride at 12:30
 
 - 50% basal for 1h, 1.5h before ride. No further adjustment

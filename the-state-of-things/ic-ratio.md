@@ -1,5 +1,18 @@
 # IC Ratio
 
+## Current
+
+Trying higher numbers to match higher basals
+
+Time | Ratio
+---- | -----
+00:00 | 15g
+06:00 | 15g
+10:00 | 13g
+15:00 | 15g
+
+# Archive
+
 Time | Ratio
 ---- | -----
 00:00 | 20g

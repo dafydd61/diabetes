@@ -25,7 +25,9 @@ Time  | 2016-11-30 | 2016-02-13 |
 17:00 |      0.575 |      0.775 |
 22:00 |      0.625 |            |
 
-## 2. Other (High) <small>Active 2016-11-30</small>
+## 2. Other (High)
+
+*Active 2016-11-30*
 
 Time  | 2016-11-30 | 2016-11-29 |
 ----- | ---------- | ---------- |
@@ -39,7 +41,7 @@ Time  | 2016-11-30 | 2016-11-29 |
 
 ## 3. Weekend (biking)
 
-50% reduction starts 1.5h before ride
+*50% reduction starts 1.5h before ride*
 
 Time  | 2016-11-30 |
 ----- | ---------- |
@@ -52,6 +54,8 @@ Time  | 2016-11-30 |
 14:00 |      0.725 |
 17:00 |      0.775 |
 22:00 |      0.850 |
+
+---
 
 ## Other (super high: Weekend +50%) - Keeping these for reference
 

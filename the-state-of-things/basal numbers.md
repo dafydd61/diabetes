@@ -69,10 +69,10 @@ Time  | Col 1  | Jan 10 | Jan 10 - 2 | Jan 13 | Jan 28 (3) | Feb high   | Feb mi
 18:00													   | 1.000      | 0.775      | 0.625         | 0.500         |
 22:00													   | 1.050      | 0.800      | 0.650         | 0.525         |
 
-Jan 10 - -20% during the day, -10% 3am-6am
-Jan 10 - 2 - -10%all day
-Jan 15 - back to super high (col 1)
-Jan 28 - looks like things are beginning to normalize. Slowly heading back down to pre-Xmas rates.
+- Jan 10 - -20% during the day, -10% 3am-6am
+- Jan 10 - 2 - -10%all day
+- Jan 15 - back to super high (col 1)
+- Jan 28 - looks like things are beginning to normalize. Slowly heading back down to pre-Xmas rates.
 
 ## Weekend (trying out higher morning numbers)
 

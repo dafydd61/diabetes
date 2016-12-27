@@ -8,6 +8,7 @@
 4. -1u, .5 correction for meal after
 
 - had to eat extra on ride. back to 2u breakfast
+- still high after lunch. try no adjustment
 
 ## Lunch rides from Vigorate
 

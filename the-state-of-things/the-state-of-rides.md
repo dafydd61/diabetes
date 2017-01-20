@@ -1,5 +1,15 @@
 # The state of rides
 
+## Long morning rides
+
+1. -50% basal 1.5h before
+2. -20% basal immediately after, fo 4h
+3. 2.5 u for 60g breakfast
+4. -1u, .5 correction for meal after
+
+- had to eat extra on ride. back to 2u breakfast
+- still high after lunch. try no adjustment
+
 ## Lunch rides from Vigorate
 
 This is a short ride, so:
